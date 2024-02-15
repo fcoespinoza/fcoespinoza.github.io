@@ -70,19 +70,36 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
       - title: Research Associate
-        company: MOBILISE Project - The University of Manchester
+        company: The University of Manchester
         company_url: 'https://mobiliseproject.com/'
-        company_logo: org-gc
+        company_logo: TAB_col_white_background.png
         location: Manchester, UK
         date_start: '2023-04-01'
         date_end: ''
+        description: MOBILISE Project. Determinants of ‘Mobilisation’ at Home & Abroad: Analysing the Micro-Foundations of Out-Migration & Mass Protest			
       - title: Research Assistant
-        company: The READY Study - The University of Manchester
+        company: The University of Manchester
         company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
-        company_logo: org-x
+        company_logo: TAB_col_white_background.png
         location: Manchester, UK
         date_start: '2018-06-01'
         date_end: '2023-12-31'
+        description: The READY Study. Recording Emerging Adulthood in Deaf Youth
+      - title: Professional
+        company: Municipality of Santiago
+        company_url: 'https://www.munistgo.cl'
+        company_logo: munistgo.png
+        location: Santiago, Chile
+        date_start: '2015-01-01'
+        date_end: '2017-12-31'
+      - title: Consultant
+        company: Private
+        company_url: ''
+        company_logo: 
+        location: Chile & UK
+        date_start: '2013-01-01'
+        date_end: ''
+        description: Consultant in projects in supranational organisations, government and academia
       #  description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
