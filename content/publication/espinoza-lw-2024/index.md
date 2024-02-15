@@ -1,8 +1,10 @@
 ---
-title: Membership in Progressive and Left-Wing Associations in Latin America (Membresía
-  En Asociaciones Progresistas y de Izquierda En América Latina)
+title: 'Dataset: Membership in Progressive and Left-Wing Associations in Latin America
+  (Membresía En Asociaciones Progresistas y de Izquierda En América Latina)'
+authors:
+- Francisco Espinoza
 date: '2024-02-01'
-publishDate: '2024-02-15T10:19:42.697483Z'
+publishDate: '2024-02-15T11:32:12.960959Z'
 publication_types:
 - manuscript
 publication: '*University of Manchester*'
