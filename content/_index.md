@@ -72,7 +72,7 @@ sections:
       - title: Research Associate
         company: The University of Manchester
         company_url: 'https://mobiliseproject.com/'
-        company_logo: 'TAB_col_white_background.png'
+        company_logo: TAB_col_white_background.png
         location: Manchester, UK
         date_start: '2023-04-01'
      # description: Determinants of ‘Mobilisation’ at Home and Abroad: Analysing the Micro-Foundations of Out-Migration and Mass Protest
@@ -80,7 +80,7 @@ sections:
       - title: Research Assistant
         company: The University of Manchester
         company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
-        company_logo: 'TAB_col_white_background.png'
+        company_logo: TAB_col_white_background.png
         location: Manchester, UK
         date_start: '2018-06-01'
         date_end: '2023-12-31'
@@ -89,7 +89,7 @@ sections:
       - title: Professional
         company: Municipality of Santiago
         company_url: 'https://www.munistgo.cl'
-        company_logo: 'munistgo.png'
+        company_logo: munistgo.png
         location: Santiago, Chile
         date_start: '2015-01-01'
         date_end: '2017-12-31'
