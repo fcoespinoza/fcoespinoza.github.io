@@ -98,7 +98,7 @@ sections:
         company_logo: 
         location: Chile & UK
         date_start: '2013-01-01'
-        date_end: ''
+        date_end: '2022-12-31'
         description: Consultant in projects in supranational organisations, government and academia
       #  description: Taught electronic engineering and researched semiconductor physics.
     design:
