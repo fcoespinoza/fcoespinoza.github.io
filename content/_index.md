@@ -75,8 +75,8 @@ sections:
         company_logo: ''
         location: Manchester, UK
         date_start: '2023-04-01'
+        description: MOBILISE Project. Determinants of Mobilisation at Home and Abroad: Analysing the Micro-Foundations of Out-Migration and Mass Protest
         date_end: ''
-        description: MOBILISE Project. Determinants of Mobilisation at Home & Abroad: Analysing the Micro-Foundations of Out-Migration & Mass Protest			
       - title: Research Assistant
         company: The University of Manchester
         company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
