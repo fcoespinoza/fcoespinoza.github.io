@@ -74,7 +74,7 @@ sections:
         company_url: 'https://mobiliseproject.com/'
         company_logo: org-gc
         location: Manchester, UK
-        date_start: '2023-04'
+        date_start: '2023-04-01'
         date_end: ''
       - title: Research Assistant
         company: The READY Study - The University of Manchester
