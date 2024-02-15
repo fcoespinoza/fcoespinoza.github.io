@@ -72,15 +72,15 @@ sections:
       - title: Research Associate
         company: The University of Manchester
         company_url: 'https://mobiliseproject.com/'
-        company_logo: TAB_col_white_background.png
+        company_logo: TAB_col_white_background
         location: Manchester, UK
         date_start: '2023-04-01'
         date_end: ''
-        description: MOBILISE Project. Determinants of ‘Mobilisation’ at Home & Abroad: Analysing the Micro-Foundations of Out-Migration & Mass Protest			
+        description: MOBILISE Project. Determinants of Mobilisation at Home & Abroad: Analysing the Micro-Foundations of Out-Migration & Mass Protest			
       - title: Research Assistant
         company: The University of Manchester
         company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
-        company_logo: TAB_col_white_background.png
+        company_logo: TAB_col_white_background
         location: Manchester, UK
         date_start: '2018-06-01'
         date_end: '2023-12-31'
