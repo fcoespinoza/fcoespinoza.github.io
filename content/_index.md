@@ -69,21 +69,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-      - title: CEO
-        company: GenCoin
-        company_url: ''
+      - title: Research Associate
+        company: MOBILISE Project - The University of Manchester
+        company_url: 'https://mobiliseproject.com/'
         company_logo: org-gc
-        location: California
-        date_start: '2021-01-01'
+        location: Manchester, UK
+        date_start: '2023-04'
         date_end: ''
-        title: Professor of Semiconductor Physics
-        company: University X
-        company_url: ''
+      - title: Research Assistant
+        company: The READY Study - The University of Manchester
+        company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
         company_logo: org-x
-        location: California
-        date_start: '2016-01-01'
-        date_end: '2020-12-31'
-        description: Taught electronic engineering and researched semiconductor physics.
+        location: Manchester, UK
+        date_start: '2018-06-01'
+        date_end: '2023-12-31'
+      #  description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: contact
