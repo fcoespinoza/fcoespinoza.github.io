@@ -57,9 +57,9 @@ sections:
     design:
       columns: '2'
       view: citation
- - block: experience
-   id: experience
-   content:
+  - block: experience
+    id: experience
+    content:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
