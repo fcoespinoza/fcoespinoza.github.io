@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD in Politics
+role: PhD Candidate in Politics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,26 +25,26 @@ organizations:
     url: https://www.manchester.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Comparative Politics, Latin American studies and survey methods.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Comparative Politics
+  - Latin American studies
+  - Survey methodology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate in Politics 
+      institution: The University of Manchester
+      year: 2024
+    - course: Master in Political Science
+      institution: University of Chile
+      year: 2017
+    - course: Sociologist, BA in Sociology
+      institution: University of Chile
+      year: 2014
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,23 +93,14 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: mailto:francisco.espinoza@postgrad.manchester.ac.uk
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.co.uk/citations?user=VVOhFhMAAAAJ&hl=en
+  - icon: orcid
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
+    link: https://orcid.org/0000-0003-0235-2598
+    # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
   - icon: cv
@@ -120,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Francisco Espinoza is a PhD Candidate in Politics at The University of Manchester. He holds a Master degree in Political Science and BA in Sociology by the University of Chile. His doctoral thesis studies the patterns of economic performance and electoral behaviour in Latin American countries. His academic research experience includes roles as a research associate in the MOBILISE project and as a research assistant in The READY Study. 
 {style="text-align: justify;"}
