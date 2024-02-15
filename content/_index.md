@@ -56,6 +56,70 @@ sections:
     design:
       columns: '2'
       view: citation
+  
+ - block: experience
+   id: experience
+   content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Research associate
+          company: MOBILISE Project
+          company_url: 'https://mobiliseproject.com/'
+          company_logo:
+          location: Manchester, UK
+          date_start: '2023'
+          date_end: ''
+          description: '' 
+        - title: Research assistant
+          company: The READY Study
+          company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
+          company_logo: 
+          location: Manchester, UK
+          date_start: '2018'
+          date_end: '2023'
+          description: 
+       - title: Professional
+          company: Municipality of Santiago
+          company_url: 'https://www.munistgo.cl/'
+          company_logo: 
+          location: Santiago, Chile
+          date_start: '2015'
+          date_end: '2017'
+          description:
+       - title: Consultant
+          company: Private 
+          company_url: 'https://www.munistgo.cl/'
+          company_logo: 
+          location: Santiago, Chile
+          date_start: '2015'
+          date_end: '2017'
+          description:
+       - title: Project coordinator
+          company: Pontifical Catholic University of Chile
+          company_url: 'https://www.uc.cl/'
+          company_logo: 
+          location: Santiago, Chile
+          date_start: '2013'
+          date_end: '2014'
+          description:
+       - title: Undergraduate research assistant
+          company: University of Chile
+          company_url: 'https://www.uchile.cl/'
+          company_logo: 
+          location: Santiago, Chile
+          date_start: '2013'
+          date_end: '2014'
+          description: 
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
