@@ -75,7 +75,7 @@ sections:
         company_logo: ''
         location: Manchester, UK
         date_start: '2023-04-01'
-        description: MOBILISE Project. Determinants of Mobilisation at Home and Abroad: Analysing the Micro-Foundations of Out-Migration and Mass Protest
+       # description: 
         date_end: ''
       - title: Research Assistant
         company: The University of Manchester
@@ -84,7 +84,7 @@ sections:
         location: Manchester, UK
         date_start: '2018-06-01'
         date_end: '2023-12-31'
-        description: The READY Study. Recording Emerging Adulthood in Deaf Youth
+       # description:
       - title: Professional
         company: Municipality of Santiago
         company_url: 'https://www.munistgo.cl'
@@ -99,7 +99,7 @@ sections:
         location: Chile & UK
         date_start: '2013-01-01'
         date_end: '2022-12-31'
-        description: Consultant in projects in supranational organisations, government and academia
+       # description: Consultant in projects in supranational organisations, government and academia
       #  description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
