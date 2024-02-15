@@ -76,47 +76,45 @@ sections:
           location: Manchester, UK
           date_start: '2023'
           date_end: ''
-          #description: '' 
+      #    description: '' 
         - title: Research assistant
           company: The READY Study
           company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
-          #company_logo: 
+      #    #company_logo: 
           location: Manchester, UK
           date_start: '2018'
           date_end: '2023'
-          #description: ''
+      #    #description: ''
        - title: Professional
           company: Municipality of Santiago
           company_url: 'https://www.munistgo.cl/'
-          #company_logo: 
+      #    #company_logo: 
           location: Santiago, Chile
           date_start: '2015'
           date_end: '2017'
-          #description:
+      #    #description:
        - title: Consultant
           company: Private consultant for supranational institutions, government, and academic projects.
-          #company_url: 'https://www.munistgo.cl/'
-          #company_logo: 
+      #    #company_url: 'https://www.munistgo.cl/'
+      #    #company_logo: 
           location: Santiago, Chile
           date_start: '2014'
           date_end: ''
-          #description:
+      #    #description:
        - title: Project coordinator
           company: Pontifical Catholic University of Chile
           company_url: 'https://www.uc.cl/'
-          #company_logo: 
           location: Santiago, Chile
           date_start: '2013'
           date_end: '2014'
-          #description:
        - title: Undergraduate research assistant
           company: University of Chile
           company_url: 'https://www.uchile.cl/'
-          #company_logo: 
+      #    #company_logo: 
           location: Santiago, Chile
           date_start: '2013'
           date_end: '2014'
-          #description: 
+      #    #description: 
     design:
       columns: '2'
   - block: contact
