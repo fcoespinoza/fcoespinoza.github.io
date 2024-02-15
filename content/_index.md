@@ -42,9 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  ---
-blocks:
-  - block: collection
+    - block: collection
     id: featured
     content:
       title: Featured Publications
@@ -65,5 +63,6 @@ blocks:
       email: francisco.espinoza@postgrad.manchester.ac.uk
       address:
         street: Arthur Lewis Building
+
 
 ---
