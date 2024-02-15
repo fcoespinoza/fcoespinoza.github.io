@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
+title: 'Francisco Espinoza'
 date: 2022-10-24
 type: landing
 
@@ -42,10 +42,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
+  #- block: skills
+  #  content:
+  #    title: Skills
+  #    text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
@@ -200,35 +200,35 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
+  #- block: collection
+  #  content:
+  #    title: Recent Publications
+  #    text: |-
+  #      {{% callout note %}}
+  #      Quickly discover relevant content by [filtering publications](./publication/).
+  #      {{% /callout %}}
+  #    filters:
+  #      folders:
+  #        - publication
+  #      exclude_featured: true
+  #  design:
+  #    columns: '2'
+  #    view: citation
+  #- block: collection
+  #  id: talks
+  #  content:
+  #    title: Recent & Upcoming Talks
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    columns: '2'
+  #    view: compact
+  #- block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
   - block: contact
     id: contact
     content:
