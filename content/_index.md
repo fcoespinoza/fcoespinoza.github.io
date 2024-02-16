@@ -58,6 +58,7 @@ sections:
       columns: '2'
       view: citation
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -101,6 +102,7 @@ sections:
     design:
       columns: '2'
   - block: experience
+    id: teaching
     content:
       title: Teaching
       # Date format for experience
@@ -135,7 +137,7 @@ sections:
           company_url: ''
           location: Santiago, Chile
           date_start: '2009-03-01'
-          date_end: ''
+          date_end: '2011-12-31'
           description: |2-
               Courses include:
 
