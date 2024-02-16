@@ -20,5 +20,5 @@ main:
 # Link to a PDF of your resume/CV from the menu.
  To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/CV___F_Espinoza_English_2024.pdf
+    url: uploads/FEspinoza-CV-English-2024.pdf
     weight: 70
