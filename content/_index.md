@@ -76,7 +76,6 @@ sections:
         location: Manchester, UK
         date_start: '2023-04-01'
         date_end: ''
-        description: 'Determinants of Mobilisation at Home and Abroad: Analysing the Micro-Foundations of Out-Migration and Mass Protest'
       - title: Research Assistant
         company: The University of Manchester
         company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
@@ -89,7 +88,7 @@ sections:
       - title: Professional
         company: Municipality of Santiago
         company_url: 'https://www.munistgo.cl'
-        company_logo: munistgo.png
+        company_logo: munistgo
         location: Santiago, Chile
         date_start: '2015-01-01'
         date_end: '2017-12-31'
