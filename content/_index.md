@@ -72,14 +72,12 @@ sections:
       - title: Research Associate
         company: The University of Manchester
         company_url: 'https://mobiliseproject.com/'
-        company_logo: TAB_col_white_background.png
         location: Manchester, UK
         date_start: '2023-04-01'
         date_end: ''
       - title: Research Assistant
         company: The University of Manchester
         company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
-        company_logo: TAB_col_white_background.png
         location: Manchester, UK
         date_start: '2018-06-01'
         date_end: '2023-12-31'
@@ -91,14 +89,12 @@ sections:
         date_end: '2017-12-31'
       - title: Consultant
         company: Private
-        company_url: ''
         location: Chile & UK
         date_start: '2013-01-01'
         date_end: '2022-12-31'
       - title: Undergraduate research assistant
         company: University of Chile
         company_url: 'https://www.uchile.cl'
-        company_logo:
         location: Santiago, Chile
         date_start: '2013-03-01'
         date_end: '2014-03-01'
