@@ -83,24 +83,25 @@ sections:
         location: Manchester, UK
         date_start: '2018-06-01'
         date_end: '2023-12-31'
-       # description: The READY Study: Recording Emerging Adulthood in Deaf Youth
-       # description:
       - title: Professional
         company: Municipality of Santiago
         company_url: 'https://www.munistgo.cl'
-        company_logo: munistgo
         location: Santiago, Chile
         date_start: '2015-01-01'
         date_end: '2017-12-31'
       - title: Consultant
         company: Private
         company_url: ''
-        company_logo: 
         location: Chile & UK
         date_start: '2013-01-01'
         date_end: '2022-12-31'
-      #  description: Consultant in projects in supranational organisations, government and academia
-      #  description: Taught electronic engineering and researched semiconductor physics.
+      - title: Undergraduate research assistant
+        company: University of Chile
+        company_url: 'https://www.uchile.cl'
+        company_logo:
+        location: Santiago, Chile
+        date_start: '2013-03-01'
+        date_end: '2014-03-01'
     design:
       columns: '2'
   - block: contact
