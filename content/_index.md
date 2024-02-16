@@ -102,7 +102,7 @@ sections:
       columns: '2'
   - block: experience
     content:
-      title: Experien
+      title: Teaching
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -129,7 +129,7 @@ sections:
 
               * POLI10202 Introduction to Comparative Politics.
               * POLI20311 Politics by Numbers
-              * POLI60341 Tools and techniques of applied quantitative analysis (Postgrad)
+              * POLI60341 Tools and techniques of applied quantitative analysis (Postgraduate level course)
         - title: Teaching Assistant
           company: University of Chile
           company_url: ''
@@ -142,8 +142,8 @@ sections:
               * SOC-HC-1 Contemporary Social History.
               * SOC-EESRU-1 Rural Sociology and Anthropology I.
               * SOC-EESRU-2 Rural Sociology and Anthropology II.
-      design:
-        columns: '2'
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
