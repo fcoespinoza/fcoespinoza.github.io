@@ -100,7 +100,8 @@ sections:
         date_end: '2014-03-01'
     design:
       columns: '2'
-  - block: teaching
+  - block: experience
+      id: teaching
       content:
         title: Teaching
       # Date format for experience
