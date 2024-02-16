@@ -112,19 +112,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Associate Fellow
+          company: Higher Education Academy
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: UK
+          date_start: '2023-09-01'
+          date_end: ''
+        - title: Teaching Assistant
+          company: The University of Manchester
+          company_url: ''
+          location: Manchester, UK
+          date_start: '2021-09-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Courses include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * POLI10202 Introduction to Comparative Politics.
+              * POLI20311 Politics by Numbers
+              * POLI60341 Tools and techniques of applied quantitative analysis (Postgrad)
+        - title: Teaching Assistant
+          company: University of Chile
+          company_url: ''
+          location: Santiago, Chile
+          date_start: '2009-03-01'
+          date_end: ''
+          description: |2-
+              Courses include:
+
+              * SOC-HC-1 Contemporary Social History.
+              * SOC-EESRU-1 Rural Sociology and Anthropology I.
+              * SOC-EESRU-2 Rural Sociology and Anthropology II.
+      design:
+        columns: '2'
   - block: contact
     id: contact
     content:
