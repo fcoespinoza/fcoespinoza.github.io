@@ -11,5 +11,5 @@ abstract: "Variations in political participation are linked to demographic facto
 doi: 10.1371/journal.pone.0301053
 publication_types:
 - article-journal
-url_pdf: "content/publication/espinoza2024plos/pdf/Espinoza Young Dodds 2024.pdf"
+url_pdf: "https://github.com/fcoespinoza/fcoespinoza.github.io/blob/271c41ca3f9b93b3f24388b927828f67f32e0d9d/content/publication/espinoza2024plos/pdf/Espinoza%20Young%20Dodds%202024.pdf"
 ---
