@@ -70,12 +70,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: Lecturer in Politics
+        company: The University of Manchester
+        company_url: 'https://www.manchester.ac.uk/'
+        location: Manchester, UK
+        date_start: '2024-09-01'
+        date_end: ''
       - title: Research Associate
         company: The University of Manchester
         company_url: 'https://mobiliseproject.com/'
         location: Manchester, UK
         date_start: '2023-04-01'
-        date_end: ''
+        date_end: '2023-12-31'
       - title: Research Assistant
         company: The University of Manchester
         company_url: 'https://sites.manchester.ac.uk/thereadystudy/'
@@ -88,11 +94,6 @@ sections:
         location: Santiago, Chile
         date_start: '2015-01-01'
         date_end: '2017-12-31'
-      - title: Consultant
-        company: Private
-        location: Chile & UK
-        date_start: '2013-01-01'
-        date_end: '2022-12-31'
       - title: Undergraduate research assistant
         company: University of Chile
         company_url: 'https://www.uchile.cl'
@@ -120,12 +121,25 @@ sections:
           location: UK
           date_start: '2023-09-01'
           date_end: ''
+        - title: Lecturer
+          company: The University of Manchester
+          company_url: ''
+          location: Manchester, UK
+          date_start: '2024-09-01'
+          date_end: ''
+          description: |2-
+              Courses include:
+
+              * POLI60341 Tools and techniques of applied quantitative analysis (course convener, MA level)
+              * SOCS10121 Issues in PPE
+              * POLI21012 Southern European Politics (course convener)
+              * POLI60312 Research Design and Skills (MA level)
         - title: Teaching Assistant
           company: The University of Manchester
           company_url: ''
           location: Manchester, UK
           date_start: '2021-09-01'
-          date_end: ''
+          date_end: '2024-05-30'
           description: |2-
               Courses include:
 
