@@ -1,7 +1,8 @@
 ---
 title: "Political participation among Deaf youth in Great Britain"
 journal: PLoS One
-date: 2024
+date: 2024-04-04
+publishDate: 2024-04-04T00:00:00Z
 authors:
 - Espinoza, Francisco
 - Young, Alys
@@ -10,5 +11,5 @@ abstract: "Variations in political participation are linked to demographic facto
 doi: 10.1371/journal.pone.0301053
 publication_types:
 - article-journal
-url_pdf: "pdf/Espinoza Young Dodds 2024.pdf"
+url_pdf: "content/publication/espinoza2024plos/pdf/Espinoza Young Dodds 2024.pdf"
 ---
