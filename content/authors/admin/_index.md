@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Politics
+role: PhD in Politics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -105,11 +105,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/FEspinoza CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Francisco Espinoza is a PhD Candidate in Politics at The University of Manchester. He holds a Master degree in Political Science and BA in Sociology by the University of Chile. His doctoral thesis studies the patterns of economic performance and electoral behaviour in Latin American countries. His academic research experience includes roles as a research associate in the MOBILISE project and as a research assistant in The READY Study. 
+Francisco Espinoza is a PhD student in Politics from The University of Manchester, UK, where he is currently a Lecturer in Politics. He also earned a Master’s degree in Political Science and a Bachelor’s degree in Sociology from the University of Chile. His doctoral research employed cross-sectional survey data and subnational economic series to examine how social and gender inequalities influence the relationship between economic conditions and electoral behaviour across Latin America. His academic research experience includes roles as a research associate and research assistant in longitudinal survey projects and comparative studies.
 {style="text-align: justify;"}
