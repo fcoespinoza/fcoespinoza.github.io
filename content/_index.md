@@ -8,13 +8,12 @@ design:
   # Default section spacing
   spacing: "6rem"
 
+
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/Francisco_Espinoza_CV.pdf
@@ -22,30 +21,13 @@ sections:
       css_class: dark
       background:
         color: black
-        image:
-          # Add your image background to `assets/media/`.
-#          filename: stacked-peaks.svg
-#          filters:
-#            brightness: 1.0
-#          size: cover
-#          position: center
-#          parallax: false
   - block: markdown
     content:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-    design:
-      columns: '1'
-   - block: markdown
-     content:
-       title: '📚 My Research'
-       subtitle: ''
-       text: |-
-         I'm a UK-based Social Sciences researcher with experience in academia and government. I specialise in Comparative Politics and Latin America, with broader expertise in post-transition regions.
-         My work bridges research and teaching, with a focus on inclusive, student-centred learning. I value collaboration, public engagement, and contribute to dynamic academic networks and environments.
-         I am open to academic collaboration and research opportunities. 
+        I'm a UK-based Social Sciences researcher with experience in academia and government. I specialise in Comparative Politics and Latin America...
+
     design:
       columns: '1'
   - block: collection
