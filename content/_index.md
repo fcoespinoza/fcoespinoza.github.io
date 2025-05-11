@@ -19,9 +19,7 @@ sections:
         text: Download CV
         url: uploads/Francisco_Espinoza_CV.pdf
     design:
-      css_class: dark
-      background:
-        color: darkgray
+      css_class: light
   - block: markdown
     content:
       title: 'About me'
