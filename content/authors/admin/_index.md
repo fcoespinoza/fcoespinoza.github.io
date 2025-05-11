@@ -50,34 +50,53 @@ interests:
   - Mixed Methods
 
 education:
-  - area: PhD in Poliitcs
+  - area: PhD in Politics
     institution: The University of Manchester
-    year: 2024
+    date_start: 2020-09-01
+    date_end: 2025-03-18
   - area: Master in Political Science
     institution: University of Chile
-    year: 2016
+    date_start: 2015-03-01
+    date_end: 2016-12-31
   - area: BSc in Sociology
     institution: University of Chile
-    date_start: 2013
+    date_start: 2008-03-01
+    date_end: 2012-12-31
     
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
+work:
+  - position: Lecturer in Politics
+    company_name: The University of Manchester
+    company_url: 'https://www.manchester.ac.uk/'
+    company_logo: 'uom logo.png'
+    date_start: 2024-09-01
 #    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
+    summary: |2-
+      Responsibilities include:
+      - Lecturer in Comparative Politics teaching pillar
+      - Director of MA Political Science - European Politics and Policy Pathway
+      - Supervision of postgraduate and undergraduate dissertations
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
+  - position: Research Associate
+    company_name: MOBILISE Project, The University of Manchester
+    company_url: 'mobiliseproject.com/'
+    company_logo: 'uom logo.png'
+    date_start: 2023-05-01
+    date_end: 2024-01-31
+  - position: Research Assistant
+    company_name: SORD, The University of Manchester
+    company_url: 'manchester.ac.uk/sord/'
+    company_logo: 'uom logo.png'
+    date_start: 2018-06-01
+    date_end: 2024-01-31
+  - position: Professional
+    company_name: Municipality of Santiago
+    company_url: 'munistgo.cl'
+    company_logo: 'stgo.png'
+    date_start: 2015-03-01
+    date_end: 2027-12-31
+
+
+
 #    summary: |
 #      Responsibilities include:
 #      - Migrated infrastructure to a new data center
@@ -92,15 +111,15 @@ skills:
       - name: RStudio
         description: ''
         percent: 10
-        icon: assets/media/icons/Rstudio.svg
+        icon: Rstudio.svg
       - name: Stata
         description: ''
         percent: 100
-        icon: assets/media/icons/Stata.svg
+        icon: Stata.svg
       - name: LaTeX
         description: ''
         percent: 40
-        icon: assets/media/icons/Latex.svg
+        icon: Latex.svg
   
 #languages:
 #  - name: English
