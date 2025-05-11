@@ -34,14 +34,14 @@ profiles:
     url: 'mailto:francisco.espinoza@manchester.ac.uk'
     label: E-mail Me
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=VVOhFhMAAAAJ&hl=en
-  - icon: orcid
-    icon_pack: fab
-    link: https://orcid.org/0000-0003-0235-2598
+    icon_pack: fas
+    link: https://scholar.google.co.uk/citations?user=VVOhFhMAAAAJ&hl=en
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-0235-2598
   - icon: cv
-    icon_pack: ai
-    link: uploads/Francisco_Espinoza_CV.pdf
+    icon_pack: ai
+    link: uploads/Francisco_Espinoza_CV.pdf
 
 interests:
   - Comparative Politics
