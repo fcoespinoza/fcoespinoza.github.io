@@ -44,9 +44,10 @@ profiles:
     link: uploads/Francisco_Espinoza_CV.pdf
 
 interests:
-  - Comparative Politics
-  - Latin American studies
-  - Survey methodology
+  - Comparative Politics
+  - Latin American studies
+  - Survey methodology
+  - Mixed Methods
 
 education:
   - area: PhD in Poliitcs
