@@ -20,21 +20,22 @@ role: Dr in Politics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: The University of Manchester
-    url: https://www.manchester.ac.uk/
+- name: The University of Manchester
+  url: https://www.manchester.ac.uk/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:francisco.espinoza@manchester.ac.uk'
-    label: E-mail Me
-  - icon: graduation-cap.svg # Alternatively, use `google-scholar` icon from `ai` icon pack
-    link: https://scholar.google.co.uk/citations?user=VVOhFhMAAAAJ&hl=en
-  - icon: orcid.svg
-    link: https://orcid.org/0000-0003-0235-2598
-  - icon: cv.svg
-    link: uploads/Francisco_Espinoza_CV.pdf
+- icon: at-symbol
+  url: 'mailto:francisco.espinoza@manchester.ac.uk'
+  label: E-mail Me
+- icon: graduation-cap
+  url: https://scholar.google.co.uk/citations?user=VVOhFhMAAAAJ&hl=en
+- icon: orcid
+  url: https://orcid.org/0000-0003-0235-2598
+- icon: cv
+  url: uploads/Francisco_Espinoza_CV.pdf
+
 
 interests:
   - Comparative Politics
@@ -114,7 +115,7 @@ skills:
         percent: 40
         icon: Latex.svg
   
-#languages:
+# languages:
 #  - name: English
 #    percent: 100
 #  - name: Spanish
