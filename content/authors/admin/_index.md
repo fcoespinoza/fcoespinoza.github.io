@@ -29,14 +29,11 @@ profiles:
   - icon: at-symbol
     url: 'mailto:francisco.espinoza@manchester.ac.uk'
     label: E-mail Me
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+  - icon: graduation-cap.svg # Alternatively, use `google-scholar` icon from `ai` icon pack
     link: https://scholar.google.co.uk/citations?user=VVOhFhMAAAAJ&hl=en
-  - icon: orcid
-    icon_pack: fab
+  - icon: orcid.svg
     link: https://orcid.org/0000-0003-0235-2598
-  - icon: cv
-    icon_pack: ai
+  - icon: cv.svg
     link: uploads/Francisco_Espinoza_CV.pdf
 
 interests:
