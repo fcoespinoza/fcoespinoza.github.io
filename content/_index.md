@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Francisco Espinoza"
 date: 2022-10-24
 type: landing
 
@@ -10,17 +10,17 @@ design:
 
 
 sections:
-  - block: resume-biography-3
-    content:
-      username: admin
-      text: ""
-      button:
-        text: Download CV
-        url: uploads/Francisco_Espinoza_CV.pdf
-    design:
-      css_class: dark
-      background:
-        color: black
+#  - block: resume-biography-3
+#    content:
+#      username: admin
+#      text: ""
+#      button:
+#        text: Download CV
+#        url: uploads/Francisco_Espinoza_CV.pdf
+#    design:
+#      css_class: dark
+#      background:
+#        color: black
   - block: markdown
     content:
       title: '📚 My Research'
