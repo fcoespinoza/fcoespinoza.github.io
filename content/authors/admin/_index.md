@@ -28,14 +28,13 @@ organizations:
 profiles:
 - icon: at-symbol
   url: 'mailto:francisco.espinoza@manchester.ac.uk'
-  label: E-mail Me
-- icon: custom/graduation-cap
+- icon: custom/gradcap
   url: https://scholar.google.co.uk/citations?user=VVOhFhMAAAAJ&hl=en
-- icon: orcid
+- icon: custom/orcid2
   url: https://orcid.org/0000-0003-0235-2598
-- icon: custom/cv
+- icon: custom/cv2
   url: uploads/Francisco_Espinoza_CV.pdf
-- icon: custom/university
+- icon: custom/unibuilding
   url: https://research.manchester.ac.uk/en/persons/francisco.espinoza
 
 
