@@ -9,10 +9,6 @@ title: Francisco Espinoza
 first_name: Francisco
 last_name: Espinoza
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
