@@ -21,7 +21,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: grey
+        color: transparent
   - block: markdown
     content:
       title: 'About me'
