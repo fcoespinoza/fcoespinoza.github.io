@@ -20,6 +20,8 @@ sections:
         url: uploads/Francisco_Espinoza_CV.pdf
     design:
       css_class: dark
+      background:
+        color: darkgray
   - block: markdown
     content:
       title: 'About me'
