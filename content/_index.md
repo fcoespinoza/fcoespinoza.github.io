@@ -14,7 +14,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: ""
-      # Show a call-to-action button under your biography (optional)
+      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/Francisco_Espinoza_CV.pdf
@@ -30,7 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
   - block: markdown
     content:
       title: '📚 My Research'
@@ -47,7 +46,6 @@ sections:
         I am open to collaboration.
     design:
       columns: '1'
-
   - block: collection
     id: papers
     content:
@@ -59,12 +57,5 @@ sections:
     design:
       view: article-grid
       columns: 2
-
   - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      page_type: post
-      count: 5
+
