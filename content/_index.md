@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Francisco_Espinoza_CV.pdf
     design:
       css_class: dark
       background:
@@ -32,27 +32,20 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'About me'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a UK-based Social Sciences researcher with experience in academia and government.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I specialise in Comparative Politics and Latin America, with broader expertise in post-transition regions and UK politics.
+
+        My work bridges research and teaching, with a focus on inclusive, student-centred learning.
+
+        I value collaboration, public engagement, and contribute to dynamic academic networks and environments.
+
+        I am open to collaboration.
     design:
       columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
   - block: collection
     content:
       title: Recent Publications
