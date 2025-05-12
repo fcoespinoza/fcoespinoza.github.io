@@ -4,9 +4,6 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Francisco Espinoza
-    url: /
-    weight: 1
   - name: Bio
     url: /
     weight: 10
