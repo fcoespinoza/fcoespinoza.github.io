@@ -37,7 +37,6 @@ profiles:
 - icon: custom/unibuilding
   url: https://research.manchester.ac.uk/en/persons/francisco.espinoza
 
-
 interests:
   - Comparative Politics
   - Latin American studies
@@ -88,12 +87,19 @@ work:
     company_url: 'munistgo.cl'
     company_logo: 'stgo.png'
     date_start: 2015-03-01
-    date_end: 2027-12-31
-
-
-
-#    summary: |
-#      Responsibilities include:
+    date_end: 2017-12-31
+  - position: Project Coordinator
+    company_name: CEDETi UC, Pontifical Catholic University of Chile
+    company_url: 'uc.cl'
+    date_start: 2013-03-01
+    date_end: 2014-03-31
+  - position: Undergraduate Research Assistant
+    company_name: University of Chile
+    company_url: 'uchile.cl'
+    date_start: 2013-03-01
+    date_end: 2014-03-31
+    summary: |
+      "Social Justice and inequalities tolerance: Subjective analysis of social differentiation in a mature Neo-liberal regime" Research Project (FONDECYT 1130276).
 #      - Migrated infrastructure to a new data center
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -110,16 +116,15 @@ skills:
       - name: Stata
         description: ''
         percent: 100
-        icon: Stata.svg
+        icon: stata.svg
       - name: LaTeX
         description: ''
         percent: 40
-        icon: Latex.svg
+        icon: latex.svg
   
-# languages:
-#  - name: English
-#    percent: 100
-#  - name: Spanish
+ languages:
+  - name: English
+  - name: Spanish
 #    percent: 75
 #  - name: Portuguese
 #    percent: 25
@@ -128,8 +133,16 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-#awards:
-#  - title: Neural Networks and Deep Learning
+awards:
+  - title: MA Political Science - European Politics and Policy Pathway Director
+    awarder: The University of Manchester
+    date: '2024-09-01'
+  - title: Co-chair Comparative Politics Cluster
+    awarder: The University of Manchester
+    date: '2022-09-01'
+  - title: Chile-UK Postgraduate Research Conference organiser
+    awarder: The University of Manchester
+    date: '2021-09-01'
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
 #    date: '2023-11-25'
 #    awarder: Coursera
