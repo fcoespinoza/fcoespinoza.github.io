@@ -113,11 +113,13 @@ skills:
     icon_pack: custom
   - name: stata
     icon_pack: custom
-    description: ''
     description: 'Stata'
   - name: latex
     icon_pack: custom
-    description: 'LaTeX'
+    description: 'mins'
+  - name: LaTeX
+    icon_pack: custom
+    description: 'alt'
 
 languages:
   - name: English
