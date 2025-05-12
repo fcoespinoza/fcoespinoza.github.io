@@ -108,15 +108,15 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 
 skills:
-  - name: rstudio
+  - name: Rstudio
     description: 'RStudio'
-    icon_pack: dev
+    icon_pack: custom
   - name: stata
-    icon_pack: dev
+    icon_pack: custom
     description: ''
     description: 'Stata'
   - name: latex
-    icon_pack: dev
+    icon_pack: custom
     description: 'LaTeX'
 
 languages:
