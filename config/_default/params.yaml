@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'I built this website using Hugo Academic theme powered by Hugo Blox Builder.'
+    description: 'I built this website using the Hugo Academic theme.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
