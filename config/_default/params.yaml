@@ -9,8 +9,7 @@ appearance:
   color: emerald
 params:
   icons:
-    - simple-icons
-    - devicons
+    - dev
 
 # SEO
 marketing:
