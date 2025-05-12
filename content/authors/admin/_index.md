@@ -108,18 +108,16 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 
 skills:
-  - name: R
+  - name: rstudioide
+    description: 'RStudio'
+    icon_pack: simple-icons
+  - name: stata
+    icon_pack: devicons
     description: ''
-    percent: 100
-    icon: Rstudio
-  - name: Stata
-    description: ''
-    percent: 100
-    icon: stata
-  - name: LaTeX
-    description: ''
-    percent: 40
-    icon: latex
+    description: 'Stata'
+  - name: latex
+    icon_pack: devicons
+    description: 'LaTeX'
 
 languages:
   - name: English
