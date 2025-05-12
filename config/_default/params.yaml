@@ -7,6 +7,10 @@
 appearance:
   mode: system
   color: emerald
+params:
+  icons:
+    - simple-icons
+    - devicons
 
 # SEO
 marketing:
