@@ -66,7 +66,7 @@ work:
 #    date_end: ''
     summary: |2-
       Responsibilities include:
-      - Lecturer in Comparative Politics teaching pillar
+      - Lecturer in the Comparative Politics teaching pillar
       - Director of MA Political Science - European Politics and Policy Pathway
       - Supervision of postgraduate and undergraduate dissertations
 #      - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -143,4 +143,4 @@ awards:
 
 ## About Me
 
-Francisco Espinoza holds a PhD in Politics from The University of Manchester, UK, where he is currently a Lecturer in Politics. He also earned a Master’s degree in Political Science and a Bachelor’s degree in Sociology from the University of Chile. His doctoral research used cross-sectional survey data and subnational economic series to examine how subnational, social, and gender inequalities influence the relationship between economic conditions and electoral behaviour across Latin America. His academic experience includes roles as a research associate and research assistant on longitudinal survey projects and comparative studies.
+Francisco Espinoza holds a PhD in Politics from The University of Manchester, UK, where he is currently a Lecturer in Comparative Politics. He also earned a Master’s degree in Political Science and a Bachelor’s degree in Sociology from the University of Chile. His doctoral research used cross-sectional survey data and subnational economic series to examine how subnational, social, and gender inequalities influence the relationship between economic conditions and electoral behaviour across Latin America. His academic experience includes roles as a research associate and research assistant on longitudinal survey projects and comparative studies.
